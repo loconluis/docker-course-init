@@ -1,0 +1,19 @@
+{
+  "name": "simple-web-app",
+  "version": "1.0.0",
+  "description": "Simple web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "docker",
+    "node"
+  ],
+  "author": "Luis Locon <luis.locon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
